@@ -6,5 +6,5 @@
 * [Mid Michigan News Roundup](midmichigannews11082016.md)
 
 ##Community News
-* [FireDepartmentTraining](firedepartmenttraining.md)
+* [Training for window Bailout](firedepartmenttraining.md)
 
