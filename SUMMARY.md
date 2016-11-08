@@ -8,3 +8,6 @@
 ##Community News
 * [Training for window Bailout](firedepartmenttraining.md)
 
+## School News
+* SHS Dates of Interest
+
