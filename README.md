@@ -1,1 +1,2 @@
-# TSD_11082016
+# The Shepherd Digest
+## November 8, 2016
